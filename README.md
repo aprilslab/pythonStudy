@@ -12,3 +12,5 @@
     - e. jupyter notebook password
 7. Enter and confirm the password
 8. click the "Run" button and here you go
+
+https://pythonStudy.yeongjukim2.repl.co
