@@ -14,3 +14,8 @@
 8. click the "Run" button and here you go
 
 [주피터 링크](https://pythonstudy.yeongjukim2.repl.co)
+
+## reboot repl
+```bash
+busybox reboot
+```
