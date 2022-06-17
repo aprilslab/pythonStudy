@@ -1,3 +1,6 @@
 #!/bin/bash
 
-python3 -m poetry install
+pip install pandas
+pip install jupyter
+pip install scikit-learn
+pip install seaborn
