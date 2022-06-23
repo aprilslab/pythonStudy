@@ -1,4 +1,4 @@
 #!/bin/bash
 
-jupyter notebook --generate-config
-jupyter notebook password
+poetry run jupyter notebook --generate-config
+poetry run jupyter notebook password
