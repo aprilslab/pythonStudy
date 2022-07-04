@@ -1,4 +1,4 @@
-run = "sh sh/init.sh"#"jupyter notebook --ip=0.0.0.0 --port=3000"#"cowsay Configure me!"
+run = "sh sh/init.sh"
 
 language = "python"
 
