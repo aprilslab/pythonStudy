@@ -1,6 +1,6 @@
 #!/bin/bash
 
-jupyter notebook --generate-config
+#jupyter notebook --generate-config
 
 echo '{
   "NotebookApp": {
