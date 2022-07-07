@@ -31,4 +31,4 @@ echo '{
   }
 }' > '/home/runner/.jupyter/jupyter_notebook_config.json'
 
-jupyter notebook --ip=0.0.0.0 --port=3000
+jupyter notebook --ip=0.0.0.0 --port=3000 --notebook-dir /home/runner/$REPL_SLUG/src
