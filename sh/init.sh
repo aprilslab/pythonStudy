@@ -10,7 +10,7 @@ git config --global user.name "aprilslab"
 git config user.email "april.kim412@gmail.com"
 git config user.name "aprilslab"
 git config --global init.defaultBranch main
-git config --global credential.helper store #'store --file private/.git-credentials'
+# git config --global credential.helper store #'store --file private/.git-credentials'
 git config core.quotepath false
 
 

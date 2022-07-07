@@ -1,3 +1,4 @@
 #!/bin/bash
 
-busybox reboot
+#busybox reboot
+kill 1
