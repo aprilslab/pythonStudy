@@ -52,18 +52,18 @@
 * 이론
     * 꼭 필요한 자료구조 기초
     * 탐색 알고리즘 DFS/BFS
-    * 스택 구현 예제: ([Python 3.9 코드](05장%20DFS%26BFS.ipynb))
-    * 큐 구현 예제: ([Python 3.9 코드](05장%20DFS%26BFS.ipynb))
-    * 무한히 반복되는 재귀함수 예제: ([Python 3.9 코드](05장%20DFS%26BFS.ipynb))
-    * 재귀함수의 종료 조건 예제: ([Python 3.9 코드](05장%20DFS%26BFS.ipynb))
-    * 2가지 방식으로 구현한 팩토리얼 예제: ([Python 3.9 코드](05장%20DFS%26BFS.ipynb))
-    * 인접 행렬 예제: ([Python 3.9 코드](05장%20DFS%26BFS.ipynb))
-    * 인접 리스트 예제: ([Python 3.9 코드](05장%20DFS%26BFS.ipynb))
-    * DFS: ([Python 3.9 코드](05장%20DFS%26BFS.ipynb))
-    * BFS: ([Python 3.9 코드](05장%20DFS%26BFS.ipynb))
+    * 스택 구현 예제: ([Python 3.9 코드](05장%20DFS%26BFS.ipynb#스택-구현-예제))
+    * 큐 구현 예제: ([Python 3.9 코드](05장%20DFS%26BFS.ipynb#큐-구현-예제))
+    * 무한히 반복되는 재귀함수 예제: ([Python 3.9 코드](05장%20DFS%26BFS.ipynb#무한히-반복되는-재귀함수-예제))
+    * 재귀함수의 종료 조건 예제: ([Python 3.9 코드](05장%20DFS%26BFS.ipynb#재귀함수의-종료-조건-예제))
+    * 2가지 방식으로 구현한 팩토리얼 예제: ([Python 3.9 코드](05장%20DFS%26BFS.ipynb#2가지-방식으로-구현한-팩토리얼-예제))
+    * 인접 행렬 예제: ([Python 3.9 코드](05장%20DFS%26BFS.ipynb#인접-행렬-예제))
+    * 인접 리스트 예제: ([Python 3.9 코드](05장%20DFS%26BFS.ipynb#인접-리스트-예제))
+    * DFS: ([Python 3.9 코드](05장%20DFS%26BFS.ipynb#DFS))
+    * BFS: ([Python 3.9 코드](05장%20DFS%26BFS.ipynb#BFS))
 * 실전
-    * 음료수 얼려 먹기: ([Python 3.9 코드](05장%20DFS%26BFS.ipynb))
-    * 미로 탈출: ([Python 3.9 코드](05장%20DFS%26BFS.ipynb))
+    * 음료수 얼려 먹기: ([Python 3.9 코드](05장%20DFS%26BFS.ipynb#음료수-얼려-먹기))
+    * 미로 탈출: ([Python 3.9 코드](05장%20DFS%26BFS.ipynb#미로-탈출))
 
 #### 6장 정렬
 
