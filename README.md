@@ -18,7 +18,7 @@
 &nbsp;
 ## Binder
 [https://mybinder.org/](https://mybinder.org/) \
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aprilslab/pythonStudy/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aprilslab/pythonStudy/main?labpath=src)
 
 &nbsp;
 ## reboot repl
