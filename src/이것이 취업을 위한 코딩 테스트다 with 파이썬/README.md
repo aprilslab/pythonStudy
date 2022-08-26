@@ -27,7 +27,8 @@
 
 ### Part 2 주요 알고리즘 이론과 실전 문제
 
-#### 3장 그리디
+#### 3장 그리디 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aprilslab/pythonStudy/blob/main/src/%EC%9D%B4%EA%B2%83%EC%9D%B4%20%EC%B7%A8%EC%97%85%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EC%BD%94%EB%94%A9%20%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4%20with%20%ED%8C%8C%EC%9D%B4%EC%8D%AC/03%EC%9E%A5%20%EA%B7%B8%EB%A6%AC%EB%94%94.ipynb?hl=ko#scrollTo=33b80a17)
+
 
 * 이론
     * 당장 좋은 것만 선택하는 그리디
@@ -37,7 +38,7 @@
     * 숫자 카드게임: ([Python 3.9 코드](03장%20그리디.ipynb#숫자-카드게임))
     * 1이 될 때까지: ([Python 3.9 코드](03장%20그리디.ipynb#1이-될-때까지))
 
-#### 4장 구현
+#### 4장 구현 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aprilslab/pythonStudy/blob/main/src/%EC%9D%B4%EA%B2%83%EC%9D%B4%20%EC%B7%A8%EC%97%85%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EC%BD%94%EB%94%A9%20%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4%20with%20%ED%8C%8C%EC%9D%B4%EC%8D%AC/04%EC%9E%A5%20%EA%B5%AC%ED%98%84.ipynb?hl=ko)
 
 * 이론
     * 아이디어를 코드로 바꾸는 구현
@@ -47,7 +48,7 @@
     * 왕실의 나이트: ([Python 3.9 코드](04장%20구현.ipynb#왕실의-나이트))
     * 게임 개발: ([Python 3.9 코드](04장%20구현.ipynb#게임-개발))
 
-#### 5장 DFS/BFS
+#### 5장 DFS/BFS [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aprilslab/pythonStudy/blob/main/src/%EC%9D%B4%EA%B2%83%EC%9D%B4%20%EC%B7%A8%EC%97%85%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EC%BD%94%EB%94%A9%20%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4%20with%20%ED%8C%8C%EC%9D%B4%EC%8D%AC/05%EC%9E%A5%20DFS%26BFS.ipynb?hl=ko)
 
 * 이론
     * 꼭 필요한 자료구조 기초
@@ -65,7 +66,7 @@
     * 음료수 얼려 먹기: ([Python 3.9 코드](05장%20DFS%26BFS.ipynb#음료수-얼려-먹기))
     * 미로 탈출: ([Python 3.9 코드](05장%20DFS%26BFS.ipynb#미로-탈출))
 
-#### 6장 정렬
+#### 6장 정렬 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aprilslab/pythonStudy/blob/main/src/%EC%9D%B4%EA%B2%83%EC%9D%B4%20%EC%B7%A8%EC%97%85%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EC%BD%94%EB%94%A9%20%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4%20with%20%ED%8C%8C%EC%9D%B4%EC%8D%AC/06%EC%9E%A5%20%EC%A0%95%EB%A0%AC.ipynb?hl=ko)
 
 * 이론
     * 기준에 따라서 데이터를 04장%20구현.ipy03장%20그리디.ipynb
@@ -82,7 +83,7 @@
     * 성적이 낮은 순서대로 학생 출력하기: ([Python 3.9 코드](06장%20정렬.ipynb))
     * 두 배열의 원소 교체: ([Python 3.9 코드](06장%20정렬.ipynb))
 
-#### 7장 이진 탐색
+#### 7장 이진 탐색 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aprilslab/pythonStudy/blob/main/src/%EC%9D%B4%EA%B2%83%EC%9D%B4%20%EC%B7%A8%EC%97%85%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EC%BD%94%EB%94%A9%20%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4%20with%20%ED%8C%8C%EC%9D%B4%EC%8D%AC/07%EC%9E%A5%20%EC%9D%B4%EC%A7%84%20%ED%83%90%EC%83%89.ipynb?hl=ko)
 
 * 이론
     * 범위를 반씩 좁혀가는 탐색
@@ -97,7 +98,7 @@
         * 집합(Set) 자료형으로 해결: ([Python 3.9 코드](07장%20이진%20탐색.ipynb))
     * 떡볶이 떡 만들기: ([Python 3.9 코드](07장%20이진%20탐색.ipynb))
 
-#### 8장 다이나믹 프로그래밍
+#### 8장 다이나믹 프로그래밍 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aprilslab/pythonStudy/blob/main/src/%EC%9D%B4%EA%B2%83%EC%9D%B4%20%EC%B7%A8%EC%97%85%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EC%BD%94%EB%94%A9%20%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4%20with%20%ED%8C%8C%EC%9D%B4%EC%8D%AC/08%EC%9E%A5%20%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D.ipynb?hl=ko)
 
 * 이론
     * 비효율적인 피보나치 수열 구현: ([Python 3.9 코드](08장%20다이나믹%20프로그래밍.ipynb))
@@ -109,7 +110,7 @@
     * 바닥 공사: ([Python 3.9 코드](08장%20다이나믹%20프로그래밍.ipynb))
     * 효율적인 화폐 구성: ([Python 3.9 코드](08장%20다이나믹%20프로그래밍.ipynb))
 
-#### 9장 최단 경로
+#### 9장 최단 경로 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aprilslab/pythonStudy/blob/main/src/%EC%9D%B4%EA%B2%83%EC%9D%B4%20%EC%B7%A8%EC%97%85%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EC%BD%94%EB%94%A9%20%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4%20with%20%ED%8C%8C%EC%9D%B4%EC%8D%AC/09%EC%9E%A5%20%EC%B5%9C%EB%8B%A8%20%EA%B2%BD%EB%A1%9C.ipynb?hl=ko)
 
 * 이론
     * 가장 빠른 길 찾기
@@ -120,7 +121,7 @@
     * 미래 도시: ([Python 3.9 코드](09장%20최단%20경로.ipynb))
     * 전보: ([Python 3.9 코드](09장%20최단%20경로.ipynb))
 
-#### 10장 기타 그래프 이론
+#### 10장 기타 그래프 이론 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aprilslab/pythonStudy/blob/main/src/%EC%9D%B4%EA%B2%83%EC%9D%B4%20%EC%B7%A8%EC%97%85%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EC%BD%94%EB%94%A9%20%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4%20with%20%ED%8C%8C%EC%9D%B4%EC%8D%AC/10%EC%9E%A5%20%EA%B8%B0%ED%83%80%20%EA%B7%B8%EB%9E%98%ED%94%84%20%EC%9D%B4%EB%A1%A0.ipynb?hl=ko)
 
 * 이론
     * 다양한 그래프 알고리즘
